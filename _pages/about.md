@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Quan Tran's Portfolio"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
