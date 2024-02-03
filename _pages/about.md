@@ -70,3 +70,9 @@ needed.
     * Followed a three-tier architecture (client, server, database), and is organized using a layered architecture with four distinct layers:
 views, controllers, services, and database
     * [Repository](https://github.com/quan22022003/shopping-lists-web)
+
+Skill
+------
+* **Programming languages**: R, Julia, Matlab, Mathematica, SQL, Python, JavaScript, HTML, CSS, C/C++, Scala, Rust.
+* **Technologies/Editor**: Visual Studio Code, JetBrains’s IDEs, Docker, Deno, Excel, Azure, AWS, Stan, BRMS, Power BI
+* **Soft skills**: Communication, Writing, Presentation, Problem-solving, Critical thinking, Teamwork, Analytical skil
