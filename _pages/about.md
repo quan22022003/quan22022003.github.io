@@ -75,4 +75,10 @@ Skill
 ------
 * **Programming languages**: R, Julia, Matlab, Mathematica, SQL, Python, JavaScript, HTML, CSS, C/C++, Scala, Rust.
 * **Technologies/Editor**: Visual Studio Code, JetBrains’s IDEs, Docker, Deno, Excel, Azure, AWS, Stan, BRMS, Power BI
-* **Soft skills**: Communication, Writing, Presentation, Problem-solving, Critical thinking, Teamwork, Analytical skil
+* **Soft skills**: Communication, Writing, Presentation, Problem-solving, Critical thinking, Teamwork, Analytical skills
+
+Experience
+------
+* **Fuksit Tutor**
+    * August 2023 - Now.
+    * Organize events for the fuksit (freshmen) to familiarize themselves with the Aalto University Community and its culture.
