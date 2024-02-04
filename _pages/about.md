@@ -46,7 +46,6 @@ reduction in cancer incidence among vulnerable populations.
 vaccination events, and patient data for Corona vaccine distribution and treatment in Finland with PostgreSQL database
     * Stored more than 700 data rows with 12 tables having various kinds of relations
     * Conducted an explanatory data analysis with plots of 7 different kinds of charts and graphs with SQL and Python
-    * [Repository]
   
   * **[Application of Multi-attribute Value Theory in Purchasing Plane Ticket](https://github.com/quan22022003/Application-of-Multi-attribute-Value-Theory-in-Purchasing-Plane-Ticket)**
     * Solved a decision problem - choosing which tickets to buy - by employing the Multi-Attribute Value Theory (MAVT) and value-focused
