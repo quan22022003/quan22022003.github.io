@@ -15,7 +15,7 @@ Education
   * **Aalto University**
     * Bachelor of  Science, Data Science, 2022 - 2024 (Expected).
     * GPA: 4.87/5.00 (171 ECTS)
-    *  Minor: Statistics, Computer Science
+    *  Minor: Statistics, Mathematics
     * Relevant coursework: Time-series Analysis, Bayesian Analysis, Stochastic Processes, Simulation, Statistical Analysis, Database Management, Web Software Development, AI, Data Structure and Algorithms
 
 Project
