@@ -17,6 +17,20 @@ Education
     * GPA: 4.87/5.00 (171 ECTS)
     *  Minor: Statistics, Mathematics
     * Relevant coursework: Time-series Analysis, Bayesian Analysis, Stochastic Processes, Simulation, Statistical Analysis, Database Management, Web Software Development, AI, Data Structure and Algorithms
+   
+Experience
+------
+* **Teaching Assistant**
+    * Feb 2024 - Now.
+    * Aalto University, School of Business
+    * Guide and evaluate assignments for over 60 students in the Master-level course **Sales & Operations Planning**.
+    * Help students with assignments related to demand forecasting with regression and time-series models, inventory management models, and capacity management methods for supply chain planning.
+    * Assist the lecturer with the course’s logistics and evaluate the student's performance through in-class activities and assignments.
+      
+* **Teaching Assistant**
+    * Aalto University, School of Science
+    * Aid over 700 students in the Programming 2 course with assignments related to computer architecture, program execution from gate-level to high-level programming languages, aspects of functional programming, e.g. recursive definitions and recursion, and problem-solving with algorithms in Scala programming language.
+
 
 Project
 ------
@@ -80,18 +94,6 @@ Skill
 * **Technologies/Editor**: Visual Studio Code, JetBrains’s IDEs, Docker, Deno, Excel, Azure, AWS, Stan, BRMS, Power BI
 * **Soft skills**: Communication, Writing, Presentation, Problem-solving, Critical thinking, Teamwork, Analytical skills
 
-Experience
-------
-* **Teaching Assistant**
-    * Feb 2024 - Now.
-    * Aalto University, School of Business
-    * Guide and evaluate assignments for over 60 students in the Master-level course **Sales & Operations Planning**.
-    * Help students with assignments related to demand forecasting with regression and time-series models, inventory management models, and capacity management methods for supply chain planning.
-    * Assist the lecturer with the course’s logistics and evaluate the student's performance through in-class activities and assignments.
-      
-* **Teaching Assistant**
-    * Aalto University, School of Science
-    * Aid over 700 students in the Programming 2 course with assignments related to computer architecture, program execution from gate-level to high-level programming languages, aspects of functional programming, e.g. recursive definitions and recursion, and problem-solving with algorithms in Scala programming language.
 
 Volunteering Activities
 ------
