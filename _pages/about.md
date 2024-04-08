@@ -63,6 +63,12 @@ needed.
     * Followed a three-tier architecture (client, server, database), and is organized using a layered architecture with four distinct layers:
 views, controllers, services, and database
 
+  * **[Wish.com Summer Clothes Sales Performance Analysis](https://github.com/quan22022003/Wish.com-Summer-Clothes-Sales-Performance-Analysis)**
+    * Comprehensive Sales Performance Analysis: Leveraged Power BI to perform an in-depth analysis of summer clothes sales on Wish.com, revealing key insights into consumer preferences, pricing strategies, and the effectiveness of marketing campaigns.
+    * Strategic Business Insights: Identified significant opportunities for retail expansion, optimized advertisement utilization, and the potential for diversifying shipping options, providing actionable recommendations to enhance market reach and profitability.
+    * Data-Driven Decision Making: Utilized advanced data manipulation and visualization techniques to drive strategic decisions, demonstrating the impact of consumer ratings, product placement, and discounting trends on sales performance.
+
+
 
 Skill
 ------
