@@ -64,10 +64,14 @@ needed.
 views, controllers, services, and database
 
   * **[Wish.com Summer Clothes Sales Performance Analysis](https://github.com/quan22022003/Wish.com-Summer-Clothes-Sales-Performance-Analysis)**
-    * Comprehensive Sales Performance Analysis: Leveraged Power BI to perform an in-depth analysis of summer clothes sales on Wish.com, revealing key insights into consumer preferences, pricing strategies, and the effectiveness of marketing campaigns.
-    * Strategic Business Insights: Identified significant opportunities for retail expansion, optimized advertisement utilization, and the potential for diversifying shipping options, providing actionable recommendations to enhance market reach and profitability.
-    * Data-Driven Decision Making: Utilized advanced data manipulation and visualization techniques to drive strategic decisions, demonstrating the impact of consumer ratings, product placement, and discounting trends on sales performance.
+    * Leveraged Power BI to perform an in-depth analysis of summer clothes sales on Wish.com, revealing key insights into consumer preferences, pricing strategies, and the effectiveness of marketing campaigns.
+    * Identified significant opportunities for retail expansion, optimized advertisement utilization, and the potential for diversifying shipping options, providing actionable recommendations to enhance market reach and profitability.
+    * Utilized advanced data manipulation and visualization techniques to drive strategic decisions, demonstrating the impact of consumer ratings, product placement, and discounting trends on sales performance.
 
+  * **[TripAdvisor Hotel Review Analysis](https://github.com/quan22022003/TripAdvisor-Hotel-Review-Analysis)**
+    * Leveraged machine learning techniques using Weka, supplemented by data preprocessing in R and Python, to analyze 3,118 TripAdvisor hotel reviews. The project aimed at extracting meaningful business intelligence to inform reputation management and marketing strategies.
+    *  Developed and compared multiple models to predict hotel ratings from review texts (using Support Vector Machine - Logistic, PolyKernel) and to identify influential review authors (using Random Forest), achieving accuracies of 81.8% and 94%, respectively.
+    *  Provided actionable recommendations for hospitality businesses on utilizing customer feedback for service improvement and tailoring marketing efforts towards influential travelers, enhancing customer engagement and competitive positioning. 
 
 
 Skill
