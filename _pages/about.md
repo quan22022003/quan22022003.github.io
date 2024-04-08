@@ -40,9 +40,19 @@ person’s level of tobacco and alcohol intake and their chance of developing es
     * Analyzed incorporated age demographics to identify key correlations that informed targeted prevention strategies resulting in a 15%
 reduction in cancer incidence among vulnerable populations.
     * Achieved Accuracy and Precision scores of 70% and 50% for both the Pooled and the Hierarchical models, respectively.
+   
+  * **[Wish.com Summer Clothes Sales Performance Analysis](https://github.com/quan22022003/Wish.com-Summer-Clothes-Sales-Performance-Analysis)**
+    * Leveraged Power BI to perform an in-depth analysis of summer clothes sales on Wish.com, revealing key insights into consumer preferences, pricing strategies, and the effectiveness of marketing campaigns.
+    * Identified significant opportunities for retail expansion, optimized advertisement utilization, and the potential for diversifying shipping options, providing actionable recommendations to enhance market reach and profitability.
+    * Utilized advanced data manipulation and visualization techniques to drive strategic decisions, demonstrating the impact of consumer ratings, product placement, and discounting trends on sales performance.
+
+  * **[TripAdvisor Hotel Review Analysis](https://github.com/quan22022003/TripAdvisor-Hotel-Review-Analysis)**
+    * Leveraged machine learning techniques using Weka, supplemented by data preprocessing in R and Python, to analyze 3,118 TripAdvisor hotel reviews. The project aimed at extracting meaningful business intelligence to inform reputation management and marketing strategies.
+    *  Developed and compared multiple models to predict hotel ratings from review texts (using Support Vector Machine - Logistic, PolyKernel) and to identify influential review authors (using Random Forest), achieving accuracies of 81.8% and 94%, respectively.
+    *  Provided actionable recommendations for hospitality businesses on utilizing customer feedback for service improvement and tailoring marketing efforts towards influential travelers, enhancing customer engagement and competitive positioning. 
       
   * **[The Vaccine Distribution](https://github.com/quan22022003/Vaccine-Distribution)**
-    * Built a database to keep track of the different vaccine types, transportation of vaccine batches, treatment plans, staff schedules of
+    * Built a database to keep track of the different vaccine types, transportation of vaccine batches, treatment plans, and staff schedules of
 vaccination events, and patient data for Corona vaccine distribution and treatment in Finland with PostgreSQL database
     * Stored more than 700 data rows with 12 tables having various kinds of relations
     * Conducted an explanatory data analysis with plots of 7 different kinds of charts and graphs with SQL and Python
@@ -50,7 +60,7 @@ vaccination events, and patient data for Corona vaccine distribution and treatme
   * **[Application of Multi-attribute Value Theory in Purchasing Plane Ticket](https://github.com/quan22022003/Application-of-Multi-attribute-Value-Theory-in-Purchasing-Plane-Ticket)**
     * Solved a decision problem - choosing which tickets to buy - by employing the Multi-Attribute Value Theory (MAVT) and value-focused
 thinking approach.
-    * A total of 8 attributes, 4 alternatives considered. 2th alternative is chosen with a Multiattribute value (MAV) of 0.733.
+    * A total of 8 attributes, 4 alternatives considered. 2nd alternative is chosen with a Multiattribute value (MAV) of 0.733.
 
   * **[Drill and Practice](https://github.com/quan22022003/Drill-and-Practice)**
     * A web application for practicing and managing multiple-choice questions
@@ -62,16 +72,6 @@ thinking approach.
 needed.
     * Followed a three-tier architecture (client, server, database), and is organized using a layered architecture with four distinct layers:
 views, controllers, services, and database
-
-  * **[Wish.com Summer Clothes Sales Performance Analysis](https://github.com/quan22022003/Wish.com-Summer-Clothes-Sales-Performance-Analysis)**
-    * Leveraged Power BI to perform an in-depth analysis of summer clothes sales on Wish.com, revealing key insights into consumer preferences, pricing strategies, and the effectiveness of marketing campaigns.
-    * Identified significant opportunities for retail expansion, optimized advertisement utilization, and the potential for diversifying shipping options, providing actionable recommendations to enhance market reach and profitability.
-    * Utilized advanced data manipulation and visualization techniques to drive strategic decisions, demonstrating the impact of consumer ratings, product placement, and discounting trends on sales performance.
-
-  * **[TripAdvisor Hotel Review Analysis](https://github.com/quan22022003/TripAdvisor-Hotel-Review-Analysis)**
-    * Leveraged machine learning techniques using Weka, supplemented by data preprocessing in R and Python, to analyze 3,118 TripAdvisor hotel reviews. The project aimed at extracting meaningful business intelligence to inform reputation management and marketing strategies.
-    *  Developed and compared multiple models to predict hotel ratings from review texts (using Support Vector Machine - Logistic, PolyKernel) and to identify influential review authors (using Random Forest), achieving accuracies of 81.8% and 94%, respectively.
-    *  Provided actionable recommendations for hospitality businesses on utilizing customer feedback for service improvement and tailoring marketing efforts towards influential travelers, enhancing customer engagement and competitive positioning. 
 
 
 Skill
