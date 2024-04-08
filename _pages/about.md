@@ -29,7 +29,7 @@ Experience
       
 * **Teaching Assistant**
     * Aalto University, School of Science
-    * Aid over 700 students in the Programming 2 course with assignments related to computer architecture, program execution from gate-level to high-level programming languages, aspects of functional programming, e.g. recursive definitions and recursion, and problem-solving with algorithms in Scala programming language.
+    * Aid over 700 students in the **Programming 2** course with assignments related to computer architecture, program execution from gate-level to high-level programming languages, aspects of functional programming, e.g. recursive definitions and recursion, and problem-solving with algorithms in Scala programming language.
 
 
 Project
