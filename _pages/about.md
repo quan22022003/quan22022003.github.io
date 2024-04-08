@@ -82,6 +82,17 @@ Skill
 
 Experience
 ------
+* **Teaching Assistant**
+    * Feb 2024 - Now.
+    * Aalto University, School of Business
+    * Guide and evaluate assignments for over 60 students in the Master-level course **Sales & Operations Planning**.
+    * Help students with assignments related to demand forecasting with regression and time-series models, inventory management models, and capacity management methods for supply chain planning.
+    * Assist the lecturer with the course’s logistics and evaluate the student's performance through in-class activities and assignments.
+      
+* **Teaching Assistant**
+    * Aalto University, School of Science
+    * Aid over 700 students in the Programming 2 course with assignments related to computer architecture, program execution from gate-level to high-level programming languages, aspects of functional programming, e.g. recursive definitions and recursion, and problem-solving with algorithms in Scala programming language.
+   
 * **Fuksit Tutor**
     * August 2023 - Now.
     * Organize events for the fuksit (freshmen) to familiarize themselves with the Aalto University Community and its culture.
