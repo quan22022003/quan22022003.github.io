@@ -30,7 +30,7 @@ influences exerted by occupational categories.
   * **[Predictive Modeling for Sleep Efficiency Using Machine Learning](https://github.com/quan22022003/Predictive-Modeling-for-Sleep-Efficiency-Using-Machine-Learning)**
     * Aimed to predict the value of sleep efficiency as a ratio of the time a person spends asleep to the total amount of time that person
 spends in bed.
-    * Explored two different models in this project: Polynomial Regression and Multi-layer Perceptron are chosen due to their efficiency in
+    * Explored two different models in this project: Polynomial Regression and Multi-layer Perceptron were chosen due to their efficiency in
 capturing highly nonlinear relations
     * Achieved a Mean-square error of 0.027 with the Polynomial model.
 
@@ -92,7 +92,9 @@ Experience
 * **Teaching Assistant**
     * Aalto University, School of Science
     * Aid over 700 students in the Programming 2 course with assignments related to computer architecture, program execution from gate-level to high-level programming languages, aspects of functional programming, e.g. recursive definitions and recursion, and problem-solving with algorithms in Scala programming language.
-   
+
+Volunteering Activities
+------
 * **Fuksit Tutor**
     * August 2023 - Now.
     * Organize events for the fuksit (freshmen) to familiarize themselves with the Aalto University Community and its culture.
