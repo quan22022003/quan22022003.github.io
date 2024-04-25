@@ -82,7 +82,7 @@ needed.
     * Followed a three-tier architecture (client, server, database), and is organized using a layered architecture with four distinct layers:
 views, controllers, services, and database
 
-  * **[Interactive Data Dashboard](https://github.com/quan22022003/Interactive-Data-Dashboard/)**
+  * **[Interactive Data Dashboard](https://github.com/quan22022003/DataVizPro---An-Interactive-Data-Dashboard)**
     * Developed "DataViz Pro," an advanced interactive dashboard application designed for dynamic data analysis and visualization. The project supports diverse data inputs (CSV, URL, direct input) and facilitates insightful data exploration through various chart types such as scatter plots, column charts, pie charts, and line charts.
     * Emphasized an intuitive user interface and efficient error handling to streamline the user experience. Integrated tools for aesthetic customization allow users to tailor their data presentation, ensuring both accessibility for beginners and depth for advanced analysis.
     * Engineered with a modular and scalable architecture, incorporating components like File Handlers, Data and Charts Display, and User Prompts. This structure not only supports maintainability but also encourages future enhancements, adhering to the DRY principle for efficient development.
