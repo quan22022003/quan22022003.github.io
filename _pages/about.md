@@ -55,6 +55,9 @@ person’s level of tobacco and alcohol intake and their chance of developing es
     * Analyzed incorporated age demographics to identify key correlations that informed targeted prevention strategies resulting in a 15%
 reduction in cancer incidence among vulnerable populations.
     * Achieved Accuracy and Precision scores of 70% and 50% for both the Pooled and the Hierarchical models, respectively.
+
+  *  **[Modeling Futures Volatility with BayesARCH](https://github.com/quan22022003/Modeling-Gold-Futures-Volatility-with-BayesARCH)**
+    *  Documenting the Bayesian workflow for analyzing the volatility of gold prices with ARCH models, including the steps taken each week, from exploratory data analysis to model selection and evaluation.
    
   * **[Hedging Options with Real Data](https://github.com/quan22022003/Hedging-with-Real-Data)**
     * Developed and evaluated delta and delta-vega hedging strategies using real-world S&P 500 options data to mitigate price and volatility risks
