@@ -8,13 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-A results-driven Data Scientist at [Aalto University](https://www.aalto.fi/en) with a solid grounding in statistical methods, business analytics, and programming, I am passionate about applying mathematical insights to real-world challenges, especially in risk management, decision analysis, and statistical data analysis. My academic path includes comprehensive studies in machine learning, probability, stochastic processes, and operations research, enhanced by practical simulation and software development experience. 
+A results-driven Data Scientist at [Aalto University](https://www.aalto.fi/en) with a solid grounding in statistical methods, business analytics, and programming, I am passionate about applying mathematical insights to real-world challenges, especially in risk management, decision analysis, and statistical data analysis. My academic path includes comprehensive studies in machine learning, probability, and operations research, enhanced by practical simulation and software development experience. 
 
 Education
 ------
   * **Aalto University**
-    * Bachelor of  Science, Data Science, 2022 - 2024 (Expected).
-    * GPA: 4.9/5.00 (230 ECTS)
+    * Master of  Science (Technology), Machine Learning, Data Science, and AI, 2025 - 2027.
+    * GPA: 5.0/5.0
+    * Minor: Computational Finance and Risk Management 
+    * Relevant coursework: Investment Science, Supervised Machine Learning, Deep Learning, Nonlinear Optimization, Machine Learning: Advanced Probabilistic Methods
+    * 
+  * **Aalto University**
+    * Bachelor of  Science (Technology), Data Science, 2022 - 2024.
+    * GPA: 4.98/5.00
     * Minor: Statistics, Mathematics
     * Relevant coursework: Time-series Analysis, Bayesian Analysis, Stochastic Processes, Simulation, Statistical Analysis, Database Management, Web Software Development, AI, Data Structure and Algorithms
    
@@ -22,15 +28,10 @@ Experience
 ------
 * **Teaching Assistant**
     * Feb 2024 - Now.
-    * Aalto University, School of Business
-    * Guide and evaluate assignments for over 60 students in the Master-level course **Sales & Operations Planning**.
-    * Help students with assignments related to demand forecasting with regression and time-series models, inventory management models, and capacity management methods for supply chain planning.
-    * Assist the lecturer with the course’s logistics and evaluate the student's performance through in-class activities and assignments.
-      
-* **Teaching Assistant**
-    * Aalto University, School of Science
-    * Aid over 700 students in the **Programming 2** course with assignments related to computer architecture, program execution from gate-level to high-level programming languages, aspects of functional programming, e.g. recursive definitions and recursion, and problem-solving with algorithms in Scala programming language.
-
+    * Aalto University
+    * Being Teaching Assistant for the following courses at Aalto University: Machine Learning, Programming 2, Sales & Operations Planning, Artificial Intelligence, and Creating Value with Analytics
+    * Developing interpersonal and communication skills by leading weekly exercise sessions for over 30 students of diverse backgrounds to answer questions about the course lectures and programming projects in Python, R, and Scala
+    * Grading the assignments of the students.
 
 Project
 ------
