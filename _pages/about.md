@@ -56,10 +56,10 @@ person’s level of tobacco and alcohol intake and their chance of developing es
 reduction in cancer incidence among vulnerable populations.
     * Achieved Accuracy and Precision scores of 70% and 50% for both the Pooled and the Hierarchical models, respectively.
 
-  *  **[Modeling Futures Volatility with BayesARCH](https://github.com/quan22022003/Modeling-Gold-Futures-Volatility-with-BayesARCH)**
+  * **[Modeling Futures Volatility with BayesARCH](https://github.com/quan22022003/Modeling-Gold-Futures-Volatility-with-BayesARCH)**
     * Documenting the Bayesian workflow for analyzing the volatility of gold prices with ARCH models, including the steps taken each week, from exploratory data analysis to model selection and evaluation.
 
-  *  **[Bayesian Modeling for International Trade Forecasting](https://github.com/quan22022003/Bayesian-International-Trade-Forecasting)**
+  * **[Bayesian Modeling for International Trade Forecasting](https://github.com/quan22022003/Bayesian-International-Trade-Forecasting)**
     * Developing and implementing Bayesian hierarchical and time series models to model heteroskedasticity and forecast regional growth rates of imports and exports for a data science project in collaboration with OP Group.
    
   * **[Hedging Options with Real Data](https://github.com/quan22022003/Hedging-with-Real-Data)**
