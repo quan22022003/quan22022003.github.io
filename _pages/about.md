@@ -55,6 +55,11 @@ person’s level of tobacco and alcohol intake and their chance of developing es
 reduction in cancer incidence among vulnerable populations.
     * Achieved Accuracy and Precision scores of 70% and 50% for both the Pooled and the Hierarchical models, respectively.
    
+  * **[Hedging Options with Real Data](https://github.com/quan22022003/Hedging-with-Real-Data)**
+    * Developed and evaluated delta and delta-vega hedging strategies using real-world S&P 500 options data to mitigate price and volatility risks
+    * Interpolated missing option prices using average BID/ASK values, processed risk-free rates from treasury bills, and calculated implied volatility and option Greeks (Delta, Vega) using the Black-Scholes model.
+    * Compared the effectiveness of single-option and portfolio hedging strategies under varying re-hedging frequencies and transaction costs, demonstrating that delta-vega hedging outperforms delta hedging with greater resilience to market volatility and transaction costs. 
+   
   * **[Wish.com Summer Clothes Sales Performance Analysis](https://github.com/quan22022003/Wish.com-Summer-Clothes-Sales-Performance-Analysis)**
     * Leveraged Power BI to perform an in-depth analysis of summer clothes sales on Wish.com, revealing key insights into consumer preferences, pricing strategies, and the effectiveness of marketing campaigns.
     * Identified significant opportunities for retail expansion, optimized advertisement utilization, and the potential for diversifying shipping options, providing actionable recommendations to enhance market reach and profitability.
